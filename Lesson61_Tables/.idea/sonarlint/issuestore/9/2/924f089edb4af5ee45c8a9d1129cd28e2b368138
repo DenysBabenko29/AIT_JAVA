@@ -1,0 +1,58 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒØæ”
+{
+java:S13193"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(‰ğ¥ıûÿÿÿÿ
+{
+java:S1319>"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(¶õÎÓøÿÿÿÿ
+{
+java:S1319J"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(èİüûûÿÿÿÿ
+{
+java:S1319T"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(»©†©ùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ©­®
+f	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şƒÕå
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÿ‡ùÿÿÿÿ
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»©†©ùÿÿÿÿ
+f	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¸ÿ
+>
+java:S5411M"(Use a primitive boolean expression here.(•ÜŞï
+0
+java:S1220""Move this file to a named package.
+c
+java:S2095V"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(öô‚îúÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(­İç®üÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ì“íÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û³òô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•Å¿‚
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(û¥
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Ú¥³øÿÿÿÿÿ
+h	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ğ¥ıûÿÿÿÿ
+1
+java:S36267"Remove this redundant jump.(ûÁİ…
+1
+java:S3626:"Remove this redundant jump.(ûÁİ…
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ôÎĞó
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ëÈòğ
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶õÎÓøÿÿÿÿ
+O
+java:S2864?"4Iterate over the "entrySet" instead of the "keySet".(Á™Üìúÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(»÷««üÿÿÿÿ
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èİüûûÿÿÿÿ
+E
+java:S1172J"*Remove this unused method parameter "num".(èİüûûÿÿÿÿ
+=
+java:S1125M"'Remove the unnecessary boolean literal.(•ÜŞï
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»©†©ùÿÿÿÿ
+O
+java:S2864X"4Iterate over the "entrySet" instead of the "keySet".(Á™Üìúÿÿÿÿ
+V	java:S125`"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(Îä¯Àûÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(Çï¼æúÿÿÿÿ
+c	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¸ÿ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(œ—Ûÿùÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(ı÷Ôüÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(Çï¼æúÿÿÿÿ
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ

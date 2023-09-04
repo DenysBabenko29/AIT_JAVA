@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lessons_JAVA.iml" filepath="$PROJECT_DIR$/Lessons_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_09/code/homework/homework.iml" filepath="$PROJECT_DIR$/Lesson_09/code/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_10/code/homework_10/homework_10.iml" filepath="$PROJECT_DIR$/Lesson_10/code/homework_10/homework_10.iml" />
+    </modules>
+  </component>
+</project>

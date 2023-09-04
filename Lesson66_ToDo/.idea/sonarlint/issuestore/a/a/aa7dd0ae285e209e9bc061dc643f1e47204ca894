@@ -1,0 +1,13 @@
+
+n
+java:S2095Q"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(„›‚úøÿÿÿÿ8ş‚’À 1
+r	java:S116"QRename this field "OUTPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÜË¼şÿÿÿÿ8€ƒ’À 1
+l	java:S116"PRename this field "INPUt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷÷•“8€ƒ’À 1
+C
+java:S1170"!Make this final field static too.(öÜË¼şÿÿÿÿ8€ƒ’À 1
+>
+java:S1170"!Make this final field static too.(÷÷•“8€ƒ’À 1
+£
+java:S1186J"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( ÄîËÿÿÿÿÿ8ƒ’À 1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(ƒˆÆıÿÿÿÿ8ƒ’À 1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(Í¸£±şÿÿÿÿ8‘ƒ’À 1

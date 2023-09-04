@@ -1,0 +1,19 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8«øÛ„ 1
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ãëà„ 1
+i
+java:S2445"L"accFrom" is a method parameter, and should not be used for synchronization.(¶Ê¢Ù8å‡â„ 1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8»øÛ„ 1
+`
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8»øÛ„ 1
+g
+java:S2445"J"accTo" is a method parameter, and should not be used for synchronization.(——×ª8¶ËÝ„ 1
+g
+java:S2445'"J"accTo" is a method parameter, and should not be used for synchronization.(——×ª8×ºà„ 1
+{
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‚ìà„ 1
+`
+java:S2276)"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶8‚ìà„ 1
+i
+java:S2445-"L"accFrom" is a method parameter, and should not be used for synchronization.(¶Ê¢Ù8úðä„ 1

@@ -1,0 +1,5 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã½©»øÿÿÿÿ8êÕÔïŸ1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8íÕÔïŸ1
+\
+java:S1128":Remove this unused import 'java.util.concurrent.Executor'.(÷ı¶Œúÿÿÿÿ8îÕÔïŸ1
